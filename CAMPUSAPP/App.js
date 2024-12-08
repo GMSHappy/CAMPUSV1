@@ -83,7 +83,7 @@ export default function MyCampusApp() {
 function ProfileScreen() {
   return (
     <View style={styles.screenContainer}>
-      <Text>Welcome to the Profile Page</Text>
+      <Text></Text>
     </View>
   );
 }
