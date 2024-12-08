@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "CAMPUSAPP",
+    "description": "An application that is for college students",
     "slug": "CAMPUSAPP",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,6 +24,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d0fc59fc-96a7-4c41-84cf-4f443f266790"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/d0fc59fc-96a7-4c41-84cf-4f443f266790"
     }
   }
 }
